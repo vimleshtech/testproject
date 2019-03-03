@@ -12,8 +12,9 @@ public class NewTest {
   public void f() {
 	  logger.info("----------------------------");
 	  logger.info("function f is started..");
-	  System.out.println("f");
+	  
 	  logger.info("function f is end..");
+	  System.out.println("hi");
   }
   
   @Test 
