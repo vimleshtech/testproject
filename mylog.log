@@ -1,0 +1,75 @@
+2018-10-23 12:56:43 INFO  NewTest:13 - ----------------------------
+2018-10-23 12:56:43 INFO  NewTest:14 - function f is started..
+2018-10-23 12:56:43 INFO  NewTest:16 - function f is end..
+2018-10-23 12:56:43 INFO  NewTest:22 - function hello is running..
+2018-10-23 12:56:43 INFO  NewTest:24 - function hello is completed..
+2018-10-23 12:56:47 INFO  NewTest:13 - ----------------------------
+2018-10-23 12:56:47 INFO  NewTest:14 - function f is started..
+2018-10-23 12:56:47 INFO  NewTest:16 - function f is end..
+2018-10-23 12:56:47 INFO  NewTest:22 - function hello is running..
+2018-10-23 12:56:47 INFO  NewTest:24 - function hello is completed..
+2018-10-23 12:56:52 INFO  NewTest:13 - ----------------------------
+2018-10-23 12:56:52 INFO  NewTest:14 - function f is started..
+2018-10-23 12:56:52 INFO  NewTest:16 - function f is end..
+2018-10-23 12:56:52 INFO  NewTest:22 - function hello is running..
+2018-10-23 12:56:52 INFO  NewTest:24 - function hello is completed..
+2018-10-23 12:56:53 INFO  NewTest:13 - ----------------------------
+2018-10-23 12:56:53 INFO  NewTest:14 - function f is started..
+2018-10-23 12:56:53 INFO  NewTest:16 - function f is end..
+2018-10-23 12:56:53 INFO  NewTest:22 - function hello is running..
+2018-10-23 12:56:53 INFO  NewTest:24 - function hello is completed..
+2018-10-23 13:19:27 INFO  NewTest:13 - ----------------------------
+2018-10-23 13:19:27 INFO  NewTest:14 - function f is started..
+2018-10-23 13:19:27 INFO  NewTest:16 - function f is end..
+2018-10-23 13:19:27 INFO  NewTest:22 - function hello is running..
+2018-10-23 13:19:27 INFO  NewTest:24 - function hello is completed..
+2018-10-23 13:21:02 INFO  NewTest:13 - ----------------------------
+2018-10-23 13:21:02 INFO  NewTest:14 - function f is started..
+2018-10-23 13:21:02 INFO  NewTest:16 - function f is end..
+2018-10-23 13:21:02 INFO  NewTest:22 - function hello is running..
+2018-10-23 13:21:02 INFO  NewTest:24 - function hello is completed..
+2018-10-23 13:21:28 INFO  NewTest:13 - ----------------------------
+2018-10-23 13:21:28 INFO  NewTest:14 - function f is started..
+2018-10-23 13:21:28 INFO  NewTest:16 - function f is end..
+2018-10-23 13:21:28 INFO  NewTest:22 - function hello is running..
+2018-10-23 13:21:28 INFO  NewTest:24 - function hello is completed..
+2018-10-23 13:21:57 INFO  NewTest:13 - ----------------------------
+2018-10-23 13:21:57 INFO  NewTest:14 - function f is started..
+2018-10-23 13:21:57 INFO  NewTest:16 - function f is end..
+2018-10-23 13:21:57 INFO  NewTest:22 - function hello is running..
+2018-10-23 13:21:57 INFO  NewTest:24 - function hello is completed..
+2018-10-23 13:23:05 INFO  NewTest:13 - ----------------------------
+2018-10-23 13:23:05 INFO  NewTest:14 - function f is started..
+2018-10-23 13:23:05 INFO  NewTest:16 - function f is end..
+2018-10-23 13:23:05 INFO  NewTest:22 - function hello is running..
+2018-10-23 13:23:05 INFO  NewTest:24 - function hello is completed..
+2018-10-23 13:29:27 INFO  NewTest:13 - ----------------------------
+2018-10-23 13:29:27 INFO  NewTest:14 - function f is started..
+2018-10-23 13:29:27 INFO  NewTest:16 - function f is end..
+2018-10-23 13:29:27 INFO  NewTest:22 - function hello is running..
+2018-10-23 13:29:27 INFO  NewTest:24 - function hello is completed..
+2018-10-23 13:31:47 INFO  NewTest:13 - ----------------------------
+2018-10-23 13:31:47 INFO  NewTest:14 - function f is started..
+2018-10-23 13:31:47 INFO  NewTest:16 - function f is end..
+2018-10-23 13:31:47 INFO  NewTest:22 - function hello is running..
+2018-10-23 13:31:47 INFO  NewTest:24 - function hello is completed..
+2018-10-24 12:45:05 INFO  NewTest:13 - ----------------------------
+2018-10-24 12:45:05 INFO  NewTest:14 - function f is started..
+2018-10-24 12:45:05 INFO  NewTest:16 - function f is end..
+2018-10-24 12:45:05 INFO  NewTest:22 - function hello is running..
+2018-10-24 12:45:05 INFO  NewTest:24 - function hello is completed..
+2018-10-24 12:45:25 INFO  NewTest:13 - ----------------------------
+2018-10-24 12:45:25 INFO  NewTest:14 - function f is started..
+2018-10-24 12:45:25 INFO  NewTest:16 - function f is end..
+2018-10-24 12:45:25 INFO  NewTest:22 - function hello is running..
+2018-10-24 12:45:25 INFO  NewTest:24 - function hello is completed..
+2018-10-24 12:46:45 INFO  NewTest:13 - ----------------------------
+2018-10-24 12:46:45 INFO  NewTest:14 - function f is started..
+2018-10-24 12:46:45 INFO  NewTest:16 - function f is end..
+2018-10-24 12:46:45 INFO  NewTest:22 - function hello is running..
+2018-10-24 12:46:45 INFO  NewTest:24 - function hello is completed..
+2018-10-24 12:47:15 INFO  NewTest:13 - ----------------------------
+2018-10-24 12:47:15 INFO  NewTest:14 - function f is started..
+2018-10-24 12:47:15 INFO  NewTest:16 - function f is end..
+2018-10-24 12:47:15 INFO  NewTest:22 - function hello is running..
+2018-10-24 12:47:15 INFO  NewTest:24 - function hello is completed..
